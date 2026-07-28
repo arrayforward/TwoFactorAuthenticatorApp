@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OTP Authenticator</string>
+    <string name="scan_qr">Scan QR Code</string>
+    <string name="add_account">Add Account</string>
+    <string name="issuer">Issuer</string>
+    <string name="account">Account</string>
+    <string name="secret">Secret Key</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="copied">Code copied to clipboard</string>
+    <string name="no_accounts">No accounts yet.\nTap + to add one.</string>
+    <string name="manual_entry">Manual Entry</string>
+    <string name="camera_permission_required">Camera permission is required to scan QR codes</string>
+    <string name="scanning_hint">Point camera at a QR code containing OTP setup key</string>
+    <string name="invalid_secret">Invalid secret key</string>
+</resources>
