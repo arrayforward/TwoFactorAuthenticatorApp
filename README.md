@@ -1,5 +1,7 @@
 # TwoFactorAuthenticator
 
+[中文文档](README_CN.md)
+
 A secure, minimal Android OTP authenticator app supporting GitHub and any TOTP-based two-factor authentication. Scan QR codes with your camera to instantly add accounts, or enter secrets manually.
 
 ## Features
